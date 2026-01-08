@@ -42,6 +42,13 @@ Geliştirme sürecinde modern, sürdürülebilir ve test edilebilir bir yapı ol
 
 *(Not: Ekran görüntüleri `screenshots` klasöründe bulunmaktadır.)*
 
+
+## 🎥 Uygulama Demosu
+
+Uygulamanın çalışır halini ve animasyonlarını incelemek için aşağıdaki videoyu izleyebilirsiniz:
+
+[▶️ Demo Videosunu İzlemek İçin Tıkla](https://youtu.be/xuGnZQHWcBM)
+
 ## ✅ Testler
 
 Uygulamanın kritik iş mantığını içeren ViewModel katmanı için **Unit Testler** yazılmıştır.

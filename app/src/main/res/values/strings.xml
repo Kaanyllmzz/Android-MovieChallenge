@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MovieChallenge</string>
+
+    <string name="home_title">MovieChallenge</string>
+    <string name="search_title">Search</string>
+    <string name="profile_title">Profile</string>
+    <string name="detail_title">Detail</string>
+    <string name="back_content_desc">Back</string>
+
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="show_all">show all</string>
+
+    <string name="genres">Genres</string>
+    <string name="overview">Overview</string>
+    <string name="minutes_format">%d min</string>
+    <string name="release_date_prefix">📅 </string>
+    <string name="rating_prefix">⭐ </string>
+
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="profile_pic_desc">Profile Picture</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">user@example.com</string>
+
+    <string name="error_generic">An error occurred</string>
+    <string name="loading">Loading...</string>
+</resources>

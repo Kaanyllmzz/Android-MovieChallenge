@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MovieChallenge</string>
+
+    <string name="home_title">Movie Challenge</string>
+    <string name="search_title">Ara</string>
+    <string name="profile_title">Profil</string>
+    <string name="detail_title">Detay</string>
+    <string name="back_content_desc">Geri</string>
+
+    <string name="now_playing">Vizyondakiler</string>
+    <string name="popular">Popüler</string>
+    <string name="top_rated">En Çok Oy Alanlar</string>
+    <string name="upcoming">Yakında Gelecekler</string>
+    <string name="show_all">tümünü gör</string>
+
+    <string name="genres">Türler</string>
+    <string name="overview">Açıklama</string>
+    <string name="minutes_format">%d dk</string>
+    <string name="release_date_prefix">📅 </string>
+    <string name="rating_prefix">⭐ </string>
+
+    <string name="dark_mode">Karanlık Mod</string>
+
+    <string name="profile_pic_desc">Profil Resmi</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="user_email">kullanici@ornek.com</string>
+
+    <string name="error_generic">Bir hata oluştu</string>
+    <string name="loading">Yükleniyor...</string>
+</resources>
